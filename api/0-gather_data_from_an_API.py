@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 """ gather the data from API """
 
-
-import request
+import requests
 import sys
 
 """ function to gather information """
